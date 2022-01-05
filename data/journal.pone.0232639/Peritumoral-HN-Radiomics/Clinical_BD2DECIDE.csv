@@ -1,0 +1,144 @@
+BD2_ID;Sex_E1_C1;radio_RT_Start_Date;DoB_E1_C1;follow_Date_of_Death;follow_Date_of_Examination_or_Last_Contact;Surv_status;TimeToDeathOrLastFU;follow_Date_of_Recurrence;Recurrence_status;TimeToDistantMetastasis;TimeToLocoRegionalRecurrence;follow_Type_of_Recurrence;DM_status;LR_status;WHO_E1_C1;Com_E1_C1;Packyears_E1_C1;Alco_cosump_E1_C1;Clinical_HB_Level_Total;CTNMN_E1_C1;Perin_grow_E1_C1;Chl_E1_C1;Ch_treatment;Ch_type;Chdos_cis_E1_C1;Ch_compl_cis_E1_C1;chemo_Reason_for_Stopping_the_Treatment_1;Ch_compl_cis_E1_C1;RTdoseHR_CTV;CTNMT_E1_C1;Tstage;TsiteGen_E1_C1;Tumor site;Ch_ac_inf_E1_C1;RTtech_E1_C1
+SS_INT_0186;1;29-1-2014;63;;28-9-2017;0;1338;19-5-2015;1;475;1338;Distant metastasis;1;0;0;0;20;;8.19;3;0;0;2;Cisplatin,Docetaxel,5-fluorouracil;540;1;Completed Treatment;1;64,4;4;T3;2;Hypopharynx;No;2
+SS_INT_0259;2;22-12-2011;61;;13-10-2017;0;1939;13-4-2017;0;1939;1939;Second primary tumor;0;0;1;1;60;13.8;8.56;2;0;0;2;Cisplatin,Docetaxel,5-fluorouracil;325;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;5;T4a;1;Oropharynx;No;2
+SS_INT_0273;1;2-9-2016;57;;20-11-2018;0;809;23-3-2017;1;809;202;Delayed lymp node metastasis;0;1;0;1;60;;;8;0;0;1;Cisplatin;160;1;Completed Treatment;1;66;4;T3;3;Larynx;No;2
+SS_INT_0295;1;28-3-2018;78;;28-12-2018;0;275;;0;275;275;;0;0;0;2;90;4.6;7.1;7;0;0;1;Cisplatin;830;1;Completed Treatment;1;69,96;4;T3;3;Larynx;No;2
+SS_INT_0326;1;20-6-2016;72;;4-5-2018;0;683;;0;683;683;;0;0;0;2;;;9.68;2;0;1;2;Carboplatin,Paclitaxel;1000;1;Completed Treatment;1;69,96;4;T3;3;Larynx;No;2
+SS_INT_MI_0229;1;8-3-2011;52;9-7-2011;5-7-2011;1;123;;0;119;119;;0;0;1;2;30;4.6;9;8;0;0;3;Cetuximab;2650;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;58;5;T4a;1;Oropharynx;No;2
+SS_INT_MI_0234;1;12-2-2014;74;;17-7-2017;0;1251;;0;1251;1251;;0;0;1;2;100;9.2;9.74;8;0;0;3;Cetuximab;400;0;Physician decision;0;70;5;T4a;1;Oropharynx;No;2
+SS_MAASTRO_1919;1;9-7-2012;55;;8-9-2017;0;1887;;0;1887;1887;;0;0;0;3;60;5;8.38;3;No;1;2;Carboplatin,Paclitaxel;300;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_MAASTRO_1971;1;4-3-2013;70;;12-1-2018;0;1775;;0;1775;1775;;0;0;0;1;40;4;9.1;8;Not evaluable;0;1;Cisplatin;1900;1;Completed Treatment;1;68;4;T3;2;Hypopharynx;No;2
+SS_MAASTRO_2009;2;18-1-2011;54;27-1-2016;12-6-2015;1;1835;;0;1606;1606;;0;0;0;1;45;4;7.6;3;Not evaluable;0;3;Cetuximab;300;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;No;2
+SS_MAASTRO_2048;1;15-7-2010;43;10-10-2013;24-9-2013;1;1183;;0;1167;1167;;0;0;0;1;30;1;8.8;7;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;5;T4a;1;Oropharynx;No;2
+SS_MAASTRO_2263;1;13-10-2014;58;1-3-2017;1-7-2016;1;870;;0;627;627;;0;0;0;3;4;;8.7;2;Not evaluable;0;1;Cisplatin;1900;1;Completed Treatment;1;68;4;T3;3;Larynx;No;2
+SS_MAASTRO_2359;1;16-3-2010;56;;16-3-2015;0;1826;;0;1826;1826;;0;0;0;0;20;4;9.7;2;No;0;3;Cetuximab;200;0;Physician decision;0;70;4;T3;1;Oropharynx;No;2
+SS_MAASTRO_238;2;10-11-2014;73;20-6-2015;27-5-2015;1;222;27-5-2015;1;198;198;Locoregional,Distant metastasis;1;1;0;1;;;8.1;3;Not evaluable;0;1;Cisplatin;1900;1;Completed Treatment;1;68;3;T2;2;Hypopharynx;No;2
+SS_MAASTRO_2984;1;21-11-2011;41;;11-11-2016;0;1817;;0;1817;1817;;0;0;0;1;20;11;8.6;7;Not evaluable;0;3;Cetuximab;1900;1;Completed Treatment;1;68;3;T2;1;Oropharynx;No;2
+SS_MAASTRO_3328;1;29-6-2009;63;23-4-2010;21-1-2010;1;298;11-1-2010;1;206;196;Locoregional;0;1;0;1;10;0;8.9;7;Not evaluable;1;3;Cetuximab;300;1;Completed Treatment;1;70;3;T2;1;Oropharynx;No;2
+SS_MAASTRO_3375;1;10-10-2012;55;;9-3-2018;0;1976;;0;1976;1976;;0;0;0;2;26;0;8.5;7;Not evaluable;0;1;Cisplatin;200;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;2;T1;1;Oropharynx;No;2
+SS_MAASTRO_3775;2;6-6-2012;59;13-11-2012;28-9-2012;1;160;;0;114;114;;0;0;0;1;35;3;8.3;8;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_MAASTRO_4257;2;28-7-2014;73;27-11-2015;28-8-2015;1;487;;0;396;396;;0;0;0;1;30;0;9;7;No;0;1;Cisplatin;1650;1;Completed Treatment;1;68;5;T4a;1;Oropharynx;No;2
+SS_MAASTRO_4423;1;25-5-2009;60;;7-7-2014;0;1869;;0;1869;1869;;0;0;0;0;42;2;7.6;7;Not evaluable;0;3;Cetuximab;300;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_MAASTRO_5900;2;5-6-2012;67;;14-4-2017;0;1774;;0;1774;1774;;0;0;0;3;12;;8.5;7;No;0;1;Cisplatin;1900;1;Completed Treatment;1;68;4;T3;2;Hypopharynx;No;2
+SS_MAASTRO_6123;2;22-6-2009;53;;4-2-2017;0;2784;;0;2784;2784;;0;0;0;0;26;;8.8;7;Not evaluable;0;3;Cetuximab;300;1;Completed Treatment;1;70;2;T1;1;Oropharynx;No;2
+SS_MAASTRO_6175;1;6-9-2010;58;7-4-2011;14-1-2011;1;213;7-4-2011;1;130;213;Local;0;1;0;0;26;4;7.6;5;No;0;1;Cisplatin;600;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;No;2
+SS_MAASTRO_6486;1;14-9-2009;53;;7-9-2015;0;2184;;0;2184;2184;;0;0;0;0;37;0;;8;Not evaluable;1;2;Cisplatin,Docetaxel,5-fluorouracil;300;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_MAASTRO_664;1;5-1-2009;57;3-10-2017;18-4-2016;1;3193;;0;2660;2660;;0;0;0;0;95;24;7.9;2;Not evaluable;0;1;Cisplatin;200;0;Not specified;0;70;5;T4a;1;Oropharynx;No;2
+SS_MAASTRO_7773;1;17-3-2011;55;12-1-2012;27-12-2011;1;301;29-4-2011;1;43;43;Regional,Distant metastasis;1;1;0;1;20;0;9.4;9;No;0;1;Cisplatin;200;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;2;T1;1;Oropharynx;No;2
+SS_MAASTRO_7974;1;20-11-2008;59;2-4-2013;26-10-2012;1;1594;;0;1436;1436;;0;0;0;0;18;2;;7;Not evaluable;0;1;Cisplatin;300;1;Completed Treatment;1;70;3;T2;1;Oropharynx;No;2
+SS_MAASTRO_8275;1;28-9-2009;51;;6-7-2015;0;2107;;0;2107;2107;;0;0;0;1;33;0;8.7;7;Not evaluable;0;1;Cisplatin;300;1;Completed Treatment;1;70;3;T2;1;Oropharynx;No;2
+SS_MAASTRO_8354;1;19-4-2011;62;13-2-2012;4-2-2012;1;300;4-2-2012;1;291;291;Local;0;1;0;2;52;8;9.81;8;Focal (1 slides);0;2;Cisplatin,5-fluorouracil;200;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;6;T4b;2;Hypopharynx;No;2
+SS_MAASTRO_8869;1;15-7-2010;48;16-11-2015;19-8-2013;1;1950;;0;1131;1131;;0;0;0;1;38;30;8.9;7;0;0;1;Cisplatin;300;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_MAASTRO_9108;2;10-7-2013;54;;26-10-2018;0;1934;;0;1934;1934;;0;0;0;1;35;0;8.6;2;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;3;T2;1;Oropharynx;No;2
+SS_MAASTRO_9393;1;6-8-2013;58;;10-2-2017;0;1284;;0;1284;1284;;0;0;1;1;45;;8.5;8;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;4;T3;3;Larynx;No;2
+SS_MAASTRO_969;1;11-11-2014;57;27-6-2017;17-5-2017;1;959;1-9-2015;1;294;294;Regional,Distant metastasis;1;1;0;3;40;0;10;8;Not evaluable;0;1;Cisplatin;1900;1;Completed Treatment;1;68;4;T3;3;Larynx;No;2
+SS_MAASTRO_9787;1;18-8-2014;62;;14-12-2018;0;1579;;0;1579;1579;;0;0;0;1;45;5;8.3;7;No;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;2;Hypopharynx;No;2
+SS_MAASTRO_9848;2;7-6-2011;57;2-1-2013;19-10-2012;1;575;;0;500;500;;0;0;0;2;80;5;8.1;7;No;0;3;Cetuximab;200;0;Not specified;0;70;3;T2;1;Oropharynx;No;2
+SS_UDUS106;1;12-2-2013;70;;26-7-2017;0;1625;;0;1625;1625;;0;0;0;1;50;2;7.7;8;No;0;2;Cisplatin,Paclitaxel;20;1;Completed Treatment;1;70;5;T4a;3;Larynx;No;2
+SS_UDUS17;1;4-7-2012;64;28-12-2012;7-9-2012;1;177;;0;65;65;;0;0;0;3;60;6;8.38;2;No;0;2;Cisplatin,5-fluorouracil;20;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;No;2
+SS_UDUS35;1;26-3-2015;58;15-7-2015;12-4-2015;1;111;;0;17;17;;0;0;0;0;30;6;6.39;8;No;0;2;Cisplatin,5-fluorouracil;10;0;Other;0;20;4;T3;1;Oropharynx;No;2
+SS_UDUS40;1;2-12-2013;73;25-3-2016;11-3-2016;1;844;25-5-2015;1;830;539;Local;0;1;0;1;30;10;8.56;8;No;0;2;Cisplatin,5-fluorouracil;20;1;Completed Treatment;1;70;4;T3;3;Larynx;No;2
+SS_UDUS44;1;26-2-2014;70;3-6-2016;30-7-2015;1;828;;0;519;519;;0;0;0;0;55;2;9.31;2;No;0;2;Cisplatin,5-fluorouracil;20;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_UDUS63;2;12-6-2013;52;;26-7-2017;0;1505;;0;1505;1505;;0;0;0;2;;2;8.63;8;No;0;2;Cisplatin,5-fluorouracil;20;1;Completed Treatment;1;70;3;T2;3;Larynx;No;2
+SS_UDUS66;1;25-6-2013;51;;26-7-2017;0;1492;;0;1492;1492;;0;0;0;2;;;8.38;8;No;0;2;Cisplatin,Paclitaxel;20;1;Completed Treatment;1;63,6;4;T3;1;Oropharynx;No;2
+SS_UDUS73;1;30-12-2013;75;;26-7-2017;0;1304;;0;1304;1304;;0;0;0;2;40;2;7.57;3;No;0;2;5-fluorouracil,Other;600;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;No;2
+SS_UDUS74;1;10-7-2012;71;22-10-2015;22-10-2015;1;1199;;0;1199;1199;;0;0;0;2;45;2;15.1;8;No;0;2;Cisplatin,5-fluorouracil;20;1;Completed Treatment;1;72;4;T3;1;Oropharynx;No;2
+SS_UDUS91;1;28-5-2013;55;;26-7-2017;0;1520;;0;1520;1520;;0;0;0;0;40;0;6.52;8;No;0;2;Cisplatin,5-fluorouracil;20;1;Completed Treatment;1;70;5;T4a;3;Larynx;No;2
+SS_VUMC_HPL_1873;1;16-1-2012;66;;22-3-2018;0;2257;;0;2257;2257;;0;0;0;2;30;4;10.7;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;3;Larynx;No;2
+SS_VUMC_HPL_2228;1;4-4-2011;54;;19-3-2018;0;2541;;0;2541;2541;;0;0;0;1;57;4;11.2;2;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;4;T3;3;Larynx;No;2
+SS_VUMC_HPL_2485;1;16-11-2009;70;27-9-2012;19-9-2012;1;1046;19-9-2012;1;1038;821;Distant metastasis;1;0;1;1;26;5;10.9;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;No;2
+SS_VUMC_HPL_3479;1;4-8-2014;57;26-3-2015;23-3-2015;1;234;;0;231;231;;0;0;1;2;40;10;8.9;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;No;2
+SS_VUMC_HPL_3901;1;23-2-2009;67;;20-7-2016;0;2704;;0;2704;2704;;0;0;0;0;30;6;9.2;3;No;0;1;Cisplatin;100;0;Physician decision;0;70;4;T3;2;Hypopharynx;No;2
+SS_VUMC_HPL_3931;1;24-11-2008;56;;13-3-2018;0;3396;;0;3396;3396;;0;0;1;1;30;10;8.6;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;5;T4a;3;Larynx;No;2
+SS_VUMC_HPL_4553;1;7-4-2008;67;;16-2-2017;0;3237;;0;3237;3237;;0;0;1;3;30;1;7.3;5;Not evaluable;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;No;2
+SS_VUMC_HPL_5022;1;7-5-2012;58;;15-3-2018;0;2138;;0;2138;2138;;0;0;0;1;60;3;9.5;3;No;0;2;Carboplatin,Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;4;T3;3;Larynx;No;2
+SS_VUMC_HPL_5204;1;12-8-2013;66;29-5-2015;10-4-2014;1;655;;0;241;241;;0;0;1;2;82;4;8.3;8;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;76;6;T4b;2;Hypopharynx;No;2
+SS_VUMC_HPL_5812;2;26-3-2013;60;;21-12-2017;0;1731;;0;1731;1731;;0;0;0;0;43;0;8.4;8;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;5;T4a;2;Hypopharynx;No;2
+SS_VUMC_HPL_596;1;20-10-2008;61;19-2-2010;19-2-2010;1;487;28-1-2010;1;465;487;Distant metastasis;1;0;0;0;40;3;8.1;3;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;No;2
+SS_VUMC_HPL_598;1;3-11-2014;62;;22-3-2018;0;1235;;0;1235;1235;;0;0;2;2;50;5;7.3;8;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;No;2
+SS_VUMC_HPL_6171;1;2-6-2008;60;29-11-2008;29-11-2008;1;180;;0;180;180;;0;0;0;0;40;2;9.1;2;Not evaluable;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;6;T4b;2;Hypopharynx;No;2
+SS_VUMC_HPL_7257;1;6-2-2012;70;12-11-2014;10-11-2014;1;1010;;0;1008;1008;;0;0;1;2;55;0;10.6;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;3;Larynx;No;2
+SS_VUMC_HPL_8136;1;8-3-2010;59;;3-4-2018;0;2948;;0;2948;2948;;0;0;0;0;40;1;9.1;3;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;3;Larynx;No;2
+SS_VUMC_HPL_8290;1;16-2-2009;60;10-11-2014;9-1-2014;1;2093;;0;1788;1788;;0;0;0;1;60;1;9;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;3;Larynx;No;2
+SS_VUMC_HPL_8798;1;7-10-2013;63;30-7-2014;9-7-2014;1;296;;0;275;275;;0;0;0;2;50;0;9.8;8;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;No;2
+SS_VUMC_HPL_8889;1;21-7-2008;55;;23-1-2018;0;3473;;0;3473;3473;;0;0;0;1;80;0;8.8;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;No;2
+SS_VUMC_HPL_9939;1;29-7-2013;64;20-10-2016;20-10-2016;1;1179;;0;1179;1179;;0;0;0;0;50;3;8.9;3;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;3;Larynx;No;2
+SS_VUMC_OP_1135;1;8-12-2008;55;12-5-2010;11-3-2010;1;520;7-12-2009;1;458;364;Local;0;1;0;0;60;5;9.2;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_VUMC_OP_1742;1;11-6-2012;62;;11-4-2017;0;1765;;0;1765;1765;;0;0;0;1;20;23;8.9;2;Not evaluable;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;5;T4a;1;Oropharynx;No;2
+SS_VUMC_OP_2069;2;15-3-2010;56;;14-7-2016;0;2313;;0;2313;2313;;0;0;0;0;40;1;7.9;8;Not evaluable;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_2240;1;17-11-2014;54;2-10-2015;1-10-2015;1;319;;0;318;318;;0;0;1;2;60;1;10.4;2;Not evaluable;0;1;Cisplatin;40;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_4253;1;10-6-2013;56;20-11-2017;21-9-2017;1;1624;;0;1564;1564;;0;0;2;3;120;10;10.1;7;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;5;T4a;1;Oropharynx;No;2
+SS_VUMC_OP_4691;1;25-8-2008;65;;20-3-2017;0;3129;;0;3129;3129;;0;0;0;0;34;2;8.2;8;Not evaluable;0;3;Cetuximab;250;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_VUMC_OP_5152;2;1-3-2010;74;9-10-2011;21-9-2011;1;587;5-9-2011;1;553;569;Distant metastasis;1;0;1;1;120;4;10;7;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_5423;2;21-2-2011;70;;6-7-2017;0;2327;;0;2327;2327;;0;0;0;1;46;2;8.2;8;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;1;Oropharynx;No;2
+SS_VUMC_OP_5431;1;12-9-2011;73;30-3-2012;30-3-2012;1;200;26-3-2012;1;200;196;Local;0;1;0;1;21;5;7.8;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_5490;1;15-12-2014;58;19-2-2016;5-2-2016;1;431;;0;417;417;;0;0;0;0;22;3;9.7;5;Not evaluable;0;1;Cisplatin;100;1;Completed Treatment;1;70;5;T4a;1;Oropharynx;No;2
+SS_VUMC_OP_5579;2;10-2-2014;66;;7-12-2017;0;1396;;0;1396;1396;;0;0;0;2;40;3;9.6;7;No;0;3;Cetuximab;250;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;5;T4a;1;Oropharynx;No;2
+SS_VUMC_OP_6170;1;16-2-2009;71;14-3-2010;21-1-2010;1;391;;0;339;339;;0;0;0;3;50;3;8;9;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_VUMC_OP_639;1;14-4-2014;67;19-12-2014;25-8-2014;1;249;25-8-2014;1;133;133;Local,Regional;0;1;0;1;25;1;10.4;3;Not evaluable;0;3;Cetuximab;0;0;Not specified;0;70;5;T4a;1;Oropharynx;No;2
+SS_VUMC_OP_6450;1;15-9-2008;60;8-7-2009;8-7-2009;1;296;;0;296;296;;0;0;1;3;25;2;8.2;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_VUMC_OP_6545;2;29-12-2008;60;12-12-2010;15-6-2010;1;713;14-5-2010;1;533;501;Regional;0;1;0;1;36;2;8.6;8;Not evaluable;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_7387;2;25-5-2010;61;26-8-2011;9-6-2011;1;458;13-10-2010;1;141;141;Local,Distant metastasis;1;1;0;0;28;6;8.6;5;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;3;T2;1;Oropharynx;No;2
+SS_VUMC_OP_7836;1;1-2-2010;64;28-8-2011;30-6-2011;1;573;;0;514;514;;0;0;1;2;29;0;9.6;8;Not evaluable;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_7892;2;26-11-2012;51;;7-6-2017;0;1654;;0;1654;1654;;0;0;2;0;37;3;5.7;8;No;0;1;Cisplatin;40;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;3;T2;1;Oropharynx;No;2
+SS_VUMC_OP_8135;1;2-2-2009;62;3-11-2009;22-10-2009;1;274;10-7-2009;1;104;158;Local,Regional;0;1;0;1;50;5;9;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;6;T4b;1;Oropharynx;No;2
+SS_VUMC_OP_825;1;29-9-2014;67;;24-11-2016;0;787;;0;787;787;;0;0;0;1;23;3;7.6;8;Not evaluable;0;1;Cisplatin;200;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_8820;2;8-9-2014;64;1-12-2017;7-11-2017;1;1180;;0;1156;1156;;0;0;0;1;30;3;8.7;3;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_9325;1;8-12-2008;66;;24-9-2015;0;2481;;0;2481;2481;;0;0;0;0;30;2;9.2;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;3;T2;1;Oropharynx;No;2
+SS_VUMC_OP_983;1;11-8-2008;56;13-6-2009;2-4-2009;1;306;13-2-2009;1;186;186;Regional,Distant metastasis;1;1;0;1;40;;9.1;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_VUMC_OP_9963;1;29-11-2010;70;15-5-2016;19-5-2011;1;1994;;0;171;171;;0;0;0;2;50;7;8.8;9;Not evaluable;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;1;Oropharynx;No;2
+SS_INT_MI_0090;1;24-9-2009;58;;9-10-2015;0;2206;25-2-2010;1;2206;154;Locoregional;0;1;0;1;29;9.2;10.05;9;;0;2;Carboplatin,Cetuximab,Cisplatin,Docetaxel,5-fluorouracil;350;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;;2
+SS_INT_MI_0127;1;1-4-2014;53;;8-8-2017;0;1225;15-9-2014;1;167;1225;Distant metastasis;1;0;0;1;50;6.9;8.63;7;;1;2;Cisplatin,Docetaxel,5-fluorouracil;450;1;Completed Treatment;1;66,6;3;T2;2;Hypopharynx;;2
+SS_INT_0186;1;29-1-2014;61;;28-9-2017;0;1338;19-5-2015;1;475;1338;Distant metastasis;1;0;0;0;20;0;8.19;3;;0;2;Cisplatin,Docetaxel,5-fluorouracil;540;1;Completed Treatment;1;64,4;4;T3;2;Hypopharynx;;2
+SS_INT_MI_0207;1;5-1-2010;46;;18-7-2017;0;2751;;0;2751;2751;;0;0;0;0;23;0;8.38;2;;0;1;Cisplatin;300;1;Completed Treatment;1;60;5;T4a;3;Larynx;;2
+SS_MAASTRO_6525;1;21-5-2012;59;;16-10-2017;0;1974;;0;1974;1974;;0;0;0;3;21;3;9.3;5;No;0;1;Cisplatin;200;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;3;T2;2;Hypopharynx;;2
+SS_MAASTRO_711;1;9-7-2012;60;13-2-2014;12-12-2013;1;584;;0;584;584;;0;0;0;1;50;2;8.2;7;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;;2
+SS_MAASTRO_5900;2;5-6-2012;66;;14-4-2017;0;1774;;0;1774;1774;;0;0;0;3;12;0;8.8;7;No;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;2;Hypopharynx;;2
+SS_MAASTRO_2931;1;16-5-2011;61;;8-4-2016;0;1789;;0;1789;1789;;0;0;0;1;55;0;9.2;7;Focal (1 slides);0;1;Cisplatin;300;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_MAASTRO_1971;1;4-3-2013;69;;12-1-2018;0;1775;;0;1775;1775;;0;0;0;1;40;4;7.6;3;Not evaluable;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;2;Hypopharynx;;2
+SS_MAASTRO_560;1;24-5-2013;63;;9-12-2016;0;1295;;0;1295;1295;;0;0;0;3;60;4;10.2;2;No;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;3;Larynx;;2
+SS_MAASTRO_9393;1;6-8-2013;57;;10-2-2017;0;1284;;0;1284;1284;;0;0;1;1;45;0;10;8;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_MAASTRO_6843;1;14-6-2011;55;;11-9-2015;0;1550;;0;1550;1550;;0;0;0;0;80;5;9.1;9;Focal (1 slides);0;1;Cisplatin;300;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_MAASTRO_7325;1;12-8-2010;59;7-9-2012;13-8-2012;1;757;;0;757;757;;0;0;0;1;56;21;8.1;8;Not evaluable;0;1;Cisplatin;300;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_MAASTRO_3732;1;2-8-2010;63;16-6-2012;20-4-2012;1;684;7-2-2011;1;189;684;Distant metastasis;1;0;0;1;40;5;7.9;5;Not evaluable;0;1;Cisplatin;300;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_MAASTRO_9787;1;18-8-2014;62;;8-12-2017;0;1579;;0;1579;1579;;0;0;0;1;45;5;8.1;7;No;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;2;Hypopharynx;;2
+SS_MAASTRO_1018;2;7-12-2009;61;;12-9-2014;0;1740;;0;1740;1740;;0;0;0;1;20;0;9;5;Not evaluable;0;1;Cisplatin;300;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;;2
+SS_MAASTRO_6175;1;6-9-2010;58;7-4-2011;14-1-2011;1;213;7-4-2011;1;213;213;Local;0;1;0;0;26;4;;8;No;1;2;Cisplatin,Docetaxel,5-fluorouracil;600;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;;2
+SS_MAASTRO_7504;1;21-4-2010;59;20-5-2015;6-3-2015;1;1855;9-6-2011;1;414;1855;Distant metastasis;1;0;0;1;45;0;8.3;2;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;;2
+SS_MAASTRO_2263;1;13-10-2014;58;1-3-2017;1-7-2016;1;870;;0;870;870;;0;0;0;3;4;0;9.7;2;Not evaluable;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;3;Larynx;;2
+SS_MAASTRO_5817;2;6-9-2010;54;;20-3-2015;0;1656;;0;1656;1656;;0;0;0;0;35;0;7.4;8;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;5;T4a;3;Larynx;;2
+SS_MAASTRO_6279;1;6-2-2012;62;27-6-2014;23-4-2016;1;872;;0;872;872;;0;0;0;3;20;8;6.9;9;No;0;3;Cetuximab;1650;0;Not specified;0;68;3;T2;2;Hypopharynx;;2
+SS_MAASTRO_8354;1;19-4-2011;62;13-2-2012;18-1-2012;1;300;4-2-2012;1;300;291;Local;0;1;0;2;52;8;8.9;7;Focal (1 slides);0;1;Cisplatin;200;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;6;T4b;2;Hypopharynx;;2
+SS_MAASTRO_969;1;11-11-2014;57;27-6-2017;17-5-2017;1;959;1-9-2015;1;294;294;Regional,Distant metastasis;1;1;0;3;40;0;8.3;7;Not evaluable;0;3;Cetuximab;1900;1;Completed Treatment;1;68;4;T3;3;Larynx;;2
+SS_MAASTRO_2009;2;18-1-2011;53;27-1-2016;12-6-2015;1;1835;;0;1835;1835;;0;0;0;1;45;4;8.8;7;Not evaluable;0;1;Cisplatin;300;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;;2
+SS_MAASTRO_9366;1;10-8-2010;62;;12-8-2016;0;2194;;0;2194;2194;;0;0;0;0;40;0;9.8;7;No;0;1;Cisplatin;300;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;;2
+SS_INT_0499;1;14-10-2014;59;25-6-2017;17-3-2017;1;985;;0;985;985;;0;0;0;1;86;0;9.81;9;;1;2;Cisplatin,Docetaxel,5-fluorouracil;225;1;Completed Treatment;1;69,96;3;T2;2;Hypopharynx;;2
+SS_VUMC_HPL_1873;1;16-1-2012;64;;22-3-2018;0;2257;;0;2257;2257;;0;0;0;2;30;4;10.7;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;3;Larynx;;2
+SS_VUMC_HPL_2228;1;4-4-2011;53;;19-3-2018;0;2541;;0;2541;2541;;0;0;0;1;57;4;11.2;2;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_3931;1;24-11-2008;73;;13-3-2018;0;3396;;0;3396;3396;;0;0;1;1;30;10;8.6;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;5;T4a;3;Larynx;;2
+SS_VUMC_HPL_4553;1;7-4-2008;66;;16-2-2017;0;3237;;0;3237;3237;;0;0;1;3;30;1;7.3;5;Not evaluable;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;;2
+SS_VUMC_HPL_596;1;20-10-2008;61;19-2-2010;19-2-2010;1;487;28-1-2010;1;465;487;Distant metastasis;1;0;0;0;40;3;8.1;3;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;;2
+SS_VUMC_HPL_6171;1;2-6-2008;59;29-11-2008;29-11-2008;1;180;;0;180;180;;0;0;0;0;40;2;9.1;2;Not evaluable;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;6;T4b;2;Hypopharynx;;2
+SS_VUMC_HPL_6555;1;13-12-2010;63;28-4-2012;28-4-2012;1;502;15-6-2011;1;184;502;Distant metastasis;1;0;0;1;35;1;9.2;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_7257;1;6-2-2012;69;12-11-2014;10-11-2014;1;1010;;0;1010;1010;;0;0;1;2;55;0;10.6;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_8136;1;8-3-2010;58;;3-4-2018;0;2948;;0;2948;2948;;0;0;0;0;40;1;9.1;3;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_8290;1;16-2-2009;59;10-11-2014;9-1-2014;1;2093;;0;2093;2093;;0;0;0;1;60;1;9;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_8636;1;24-2-2014;66;;5-3-2018;0;1470;;0;1470;1470;;0;0;0;1;80;4;9.9;7;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_VUMC_HPL_8798;1;7-10-2013;62;30-7-2014;9-7-2014;1;296;;0;296;296;;0;0;0;2;50;0;9.8;8;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;2;Hypopharynx;;2
+SS_VUMC_HPL_8889;1;21-7-2008;54;;23-1-2018;0;3473;;0;3473;3473;;0;0;0;1;80;0;8.8;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_VUMC_HPL_8908;1;7-5-2012;72;;22-3-2018;0;2145;5-8-2013;1;2145;455;Local;0;1;0;1;110;0;6.1;2;No;0;3;Cetuximab;250;1;Completed Treatment;1;70;5;T4a;3;Larynx;;2
+SS_VUMC_HPL_3901;1;23-2-2009;66;;20-7-2016;0;2704;;0;2704;2704;;0;0;0;0;30;6;9.2;3;No;0;1;Cisplatin;100;0;Physician decision;0;70;4;T3;2;Hypopharynx;;2
+SS_VUMC_HPL_5022;1;7-5-2012;57;;15-3-2018;0;2138;;0;2138;2138;;0;0;0;1;60;3;9.5;3;No;0;2;Carboplatin,Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_4341;1;1-3-2010;49;16-11-2013;15-11-2012;1;1356;;0;1356;1356;;0;0;0;1;68;0;8.8;5;No;0;1;Cisplatin;40;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_VUMC_HPL_8699;2;7-6-2010;63;;26-4-2018;0;2880;2-1-2012;0;2880;2880;Second primary tumor;0;0;0;2;0;0;8.5;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;2;Hypopharynx;;2
+SS_VUMC_HPL_8838;2;21-3-2011;44;;12-3-2018;0;2548;;0;2548;2548;;0;0;0;2;4;1;7.9;7;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;6;T4b;2;Hypopharynx;;2
+SS_VUMC_HPL_1565;1;2-5-2011;46;;22-2-2018;0;2488;;0;2488;2488;;0;0;0;1;34;10;10.9;2;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;4;T3;2;Hypopharynx;;2
+SS_VUMC_HPL_6202;2;25-7-2011;63;;1-2-2018;0;2383;;0;2383;2383;;0;0;0;0;59;0;8;2;No;0;1;Cisplatin;100;0;Other;0;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_3977;2;6-5-2013;47;;28-12-2017;0;1697;;0;1697;1697;;0;0;0;2;41;5;9.8;2;No;0;1;Cisplatin;40;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_5812;2;26-3-2013;59;;21-12-2017;0;1731;;0;1731;1731;;0;0;0;0;43;0;8.4;8;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;70;5;T4a;2;Hypopharynx;;2
+SS_VUMC_HPL_9939;1;29-7-2013;64;20-10-2016;20-10-2016;1;1179;;0;1179;1179;;0;0;0;0;50;3;8.9;3;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_5204;1;12-8-2013;66;29-5-2015;10-4-2014;1;655;;0;655;655;;0;0;1;2;82;4;8.3;8;No;0;1;Cisplatin;100;0;Treatment complication/Adverse Event/Adverse Drug Reaction;0;76;6;T4b;2;Hypopharynx;;2
+SS_VUMC_HPL_5881;1;23-9-2013;58;;23-11-2017;0;1522;;0;1522;1522;;0;0;0;0;120;12;10;9;No;0;1;Cisplatin;100;1;Completed Treatment;1;74;3;T2;2;Hypopharynx;;2
+SS_VUMC_HPL_4609;1;31-3-2014;67;;8-2-2018;0;1410;;0;1410;1410;;0;0;0;0;28;1;8.8;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
+SS_VUMC_HPL_3479;1;4-8-2014;56;26-3-2015;23-3-2015;1;234;;0;234;234;;0;0;1;2;40;10;8.9;8;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;3;T2;2;Hypopharynx;;2
+SS_VUMC_HPL_5760;1;1-9-2014;60;;22-3-2018;0;1298;;0;1298;1298;;0;0;0;1;33;2;9.6;2;No;0;1;Cisplatin;100;1;Completed Treatment;1;70;4;T3;3;Larynx;;2
